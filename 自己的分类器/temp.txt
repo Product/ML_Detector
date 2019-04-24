@@ -1,0 +1,1 @@
+Length,Max_Interval,Min_Interval,Max_Keep,Min_Keep,Recode_rate,Cookie_rate
